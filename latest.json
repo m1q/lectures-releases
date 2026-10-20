@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 5,
+  "versionName": "2.2.0",
+  "minSdk": 26,
+  "apk": "https://github.com/m1q/lectures-releases/releases/download/v2.2.0/LecturesDark.apk",
+  "sha256": "b538a72d363182ef9dfb47ecebd73622857a0503c6efac84000c009237a13d36",
+  "size": 80440,
+  "notes": "• The app now updates itself. When a new version is out you'll see \"Update available\" on Today, so there's no need to ask for the APK again.\n• Settings → Updates shows the app version and lets you check right away."
+}
