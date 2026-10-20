@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "versionCode": 6,
-  "versionName": "2.2.1",
+  "versionCode": 7,
+  "versionName": "2.3.0",
   "minSdk": 26,
-  "apk": "https://github.com/m1q/lectures-releases/releases/download/v2.2.1/LecturesDark.apk",
-  "sha256": "c09aec7da6d531c66e336503c97b7daf8694d5c8c6330c2e7ee2e4f677621405",
-  "size": 80440,
-  "notes": "• Settings no longer blinks when you check for timetable or app updates.\n• If the app couldn't check for updates (for example, offline), it tries again the next time you open it."
+  "apk": "https://github.com/m1q/lectures-releases/releases/download/v2.3.0/LecturesDark.apk",
+  "sha256": "5323b0924302829ef4963e54d162c03b179eb15ab94dc140d9bfb6f1654d478e",
+  "size": 88632,
+  "notes": "• The app now moves: pages slide in as you switch tabs and days, the countdown digits roll, and the live lecture pulses.\n• Cards and buttons react to your touch, and panels slide up and can be dragged down to close.\n• Opening the app no longer redraws the page unless the timetable changed."
 }
