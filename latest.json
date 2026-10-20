@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "versionCode": 5,
-  "versionName": "2.2.0",
+  "versionCode": 6,
+  "versionName": "2.2.1",
   "minSdk": 26,
-  "apk": "https://github.com/m1q/lectures-releases/releases/download/v2.2.0/LecturesDark.apk",
-  "sha256": "b538a72d363182ef9dfb47ecebd73622857a0503c6efac84000c009237a13d36",
+  "apk": "https://github.com/m1q/lectures-releases/releases/download/v2.2.1/LecturesDark.apk",
+  "sha256": "c09aec7da6d531c66e336503c97b7daf8694d5c8c6330c2e7ee2e4f677621405",
   "size": 80440,
-  "notes": "• The app now updates itself. When a new version is out you'll see \"Update available\" on Today, so there's no need to ask for the APK again.\n• Settings → Updates shows the app version and lets you check right away."
+  "notes": "• Settings no longer blinks when you check for timetable or app updates.\n• If the app couldn't check for updates (for example, offline), it tries again the next time you open it."
 }
