@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "versionCode": 34,
-  "versionName": "3.0.23",
+  "versionCode": 35,
+  "versionName": "3.0.24",
   "minSdk": 26,
-  "apk": "https://github.com/m1q/lectures-releases/releases/download/v3.0.23/LecturesDark.apk",
-  "sha256": "ee17b52390a1793cfd9026552448ed8b182dda5fca5304c527d8f12c655d781c",
+  "apk": "https://github.com/m1q/lectures-releases/releases/download/v3.0.24/LecturesDark.apk",
+  "sha256": "7f2e70d70aaccf0785241c3f6fb87824b37e4c8b8604d2fb79684e8f695b7c4f",
   "size": 151230,
-  "notes": "Lectures Dark is now Lecture Pass: every lecture is a ticket.\n• Today and Week show your lectures as passes, with a live countdown, the room on the stub, and a stub that tears off when the lecture ends.\n• Flip a pass to add to-dos and notes for that subject, and stamp it when you attend.\n• Passport tab: a page for each subject with its hours and your stamps. Explore tab: search subjects, rooms and lecturers, see your free time, and compare with another group.\n• Arabic: choose العربية in Settings → Language · اللغة.\n• A new home-screen widget in three sizes.\nYour group and settings stay as they are."
+  "notes": "Same Lecture Pass as 3.0.23, with nothing changed in the app. Your group, stamps and notes stay as they are.\nنفس Lecture Pass بدون أي تغيير بالتطبيق. مجموعتك وأختامك وملاحظاتك تبقى مثل ما هي."
 }
