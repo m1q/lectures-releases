@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "versionCode": 35,
-  "versionName": "3.0.24",
+  "versionCode": 36,
+  "versionName": "3.0.25",
   "minSdk": 26,
-  "apk": "https://github.com/m1q/lectures-releases/releases/download/v3.0.24/LecturesDark.apk",
-  "sha256": "7f2e70d70aaccf0785241c3f6fb87824b37e4c8b8604d2fb79684e8f695b7c4f",
+  "apk": "https://github.com/m1q/lectures-releases/releases/download/v3.0.25/LecturesDark.apk",
+  "sha256": "49c9793e5a15264e260d9d052bb35673a53268097e8b23d65838b50d219a45d5",
   "size": 151230,
-  "notes": "Same Lecture Pass as 3.0.23, with nothing changed in the app. Your group, stamps and notes stay as they are.\nنفس Lecture Pass بدون أي تغيير بالتطبيق. مجموعتك وأختامك وملاحظاتك تبقى مثل ما هي."
+  "notes": "Updating is clearer: the update screen explains Google's Play Protect check, and after the update a notification opens the app again.\nالتحديث صار أوضح: شاشة التحديث تشرح فحص Play Protect، وبعد التحديث يظهر إشعار يفتح التطبيق من جديد."
 }
